@@ -1,11 +1,14 @@
 {
-    "posts": [
+    "0": 
       {
-        "id": 1,
-        "title": "hello"
+        "id": 0,
+        "title": "hello",
+        "img": "http://"
       }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    ,
+    "1": {
+        "id": 1,
+        "title": "world",
+        "img": "http://"
+      }
   }
