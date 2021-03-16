@@ -29,11 +29,5 @@
       "id": 4,
       "title": "Artwork Five",
       "img": "https://via.placeholder.com/1080x1350.png?text=Artwork Five"
-    },
-
-    "5": {
-      "id": 5,
-      "title": "Artwork Six",
-      "img": "https://via.placeholder.com/1080x1350.png?text=Artwork Six"
     }
 }
