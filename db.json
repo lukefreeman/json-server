@@ -2,13 +2,38 @@
     "0": 
       {
         "id": 0,
-        "title": "hello",
-        "img": "http://"
+        "title": "Artwork One",
+        "img": "https://via.placeholder.com/1080x1350.png?text=Artwork One"
       }
     ,
+
     "1": {
         "id": 1,
-        "title": "world",
-        "img": "http://"
-      }
-  }
+        "title": "Artwork Two",
+        "img": "https://via.placeholder.com/1080x1350.png?text=Artwork Two"
+    },
+
+    "2": {
+      "id": 2,
+      "title": "Artwork Three",
+      "img": "https://via.placeholder.com/1080x1350.png?text=Artwork Three"
+    },
+
+    "3": {
+      "id": 3,
+      "title": "Artwork Four",
+      "img": "https://via.placeholder.com/1080x1350.png?text=Artwork Four"
+    },
+
+    "4": {
+      "id": 4,
+      "title": "Artwork Five",
+      "img": "https://via.placeholder.com/1080x1350.png?text=Artwork Five"
+    },
+
+    "5": {
+      "id": 5,
+      "title": "Artwork Six",
+      "img": "https://via.placeholder.com/1080x1350.png?text=Artwork Six"
+    }
+}
